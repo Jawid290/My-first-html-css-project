@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(36, 53, 107);
+}
+
+#div1{
+    margin-left:  40%;
+}
+
+#div2{
+    margin-left: 5%;
+}
+h2{
+    color: white;
+    margin-left: 4%;
+}
+
+#myimg{
+margin-left: 3%;
+height: 200px;
+width: 200px;
+margin-top: 20px;
+}
+
+#span{
+    color: white;
+font-size: 12px;
+
+}
+
+h3{
+    color: rgba(24, 245, 24, 0.719);
+    font-size: 30px;
+}
+h4{
+    color: white;
+    font-size: 25px;
+}
+
+#para{
+    color: white;
+}
+
